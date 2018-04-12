@@ -6,4 +6,4 @@ Apkarian, P., & Adams, R. J. (1998). Advanced gain-scheduling techniques for unc
 The numerical example used in the demo is from the following paper. <br>
 Wu, F., Hua, X., Packard, A., & Becker, G. (1996). Induced L2 norm nontrol for LPV systems with bounded parameter variation rates, 998, 983–998.
 
-LMILab is used to solve the LMI conditions but YALMIP plus other solvers such as Sedumi and SDPT3 is recommended due to much faster computation. 
+LMILab is used to solve the LMI conditions but YALMIP plus other solvers such as Sedumi and SDPT3 is recommended for large problems due to much faster computation. 
